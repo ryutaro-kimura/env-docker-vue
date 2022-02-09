@@ -1,3 +1,5 @@
+## 環境
+- vue 最新版
 ## Docker構築&起動
 ```
 docker-compose up -d
