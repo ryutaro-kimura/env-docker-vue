@@ -1,5 +1,6 @@
 ## 環境
-- vue 最新版
+- vue-cli 最新版
+- npm
 ## Docker構築&起動
 ```
 docker-compose up -d
