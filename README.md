@@ -11,9 +11,10 @@ docker-compose up -d
 // コンテナに入る
 docker-compose exec web sh
 
-// 更新の場合
-npm update
+// vueのプロジェクト作成
+vue create hogehoge
 
-// npm 実行
-npm run dev
+// サーバー立ち上げ
+cd hogehoge
+npm run serve
 ```
